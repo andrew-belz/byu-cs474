@@ -1,3 +1,5 @@
+# NOTE TO SELF: THIS REPO CONTAINS PRIVATE API KEYS, DO NOT MAKE PUBLIC
+
 # byu-cs474
 You've found the official repository for the BYU CS 474 Fall 2024 course. This repository contains starter code for all assignments for the class.
 
